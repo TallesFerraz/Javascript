@@ -4,7 +4,9 @@ body{
     background: rgb(202, 176, 119);
     font: normal 15pt Arial;
 }
-
+div#dados {
+    text-align: center;
+}
 header {
     color: white;
     text-align: center;
